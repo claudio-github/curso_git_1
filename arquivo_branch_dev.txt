@@ -1,1 +1,2 @@
-linha 01 - inserido no git local - versao 3
+linha 01 - inserido no git local - 
+linha inserida na versao 04
