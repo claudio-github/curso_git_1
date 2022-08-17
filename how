@@ -1,0 +1,65 @@
+[33mcommit 96e2a5e1a8fc8243268360eceafe020563edd398[m[33m ([m[1;36mHEAD -> [m[1;32mtestando[m[33m)[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Wed Aug 17 14:18:45 2022 -0300
+
+    primeira linha sobre assunto show
+
+[33mcommit 8d46bd16fd8d6dec5a85eb56760eaf760884bbf0[m[33m ([m[1;33mtag: v3.0[m[33m, [m[1;33mtag: show[m[33m)[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Mon Aug 15 17:40:59 2022 -0300
+
+    Terceira versao
+
+[33mcommit 584e8ec544d725f47ee960c5462f24f80cef28b2[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Mon Aug 15 17:34:24 2022 -0300
+
+    enviando alteracoes versao 02
+
+[33mcommit 3fb2a1654c365b5a19e9511650e9f6760c9c350b[m[33m ([m[1;33mtag: v2.0[m[33m)[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Mon Aug 15 17:33:20 2022 -0300
+
+    enviando alteracoes versao 01
+
+[33mcommit a03c8ffcf4c36423d7794e001d58a215c3f7a7b6[m[33m ([m[1;33mtag: v1.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Fri Aug 12 21:36:50 2022 -0300
+
+    criado no primeiro branch
+
+[33mcommit f064bae65d5b9118e131c5a592c689102598ca34[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Thu Aug 11 09:35:12 2022 -0300
+
+    Apagando arquivo desnecessario
+
+[33mcommit 311629e614f894001ae296441da6861f30e33eef[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Thu Aug 11 09:31:29 2022 -0300
+
+    criacao aquivo c
+
+[33mcommit 16258103f3c71372a594ce6c2ef82031c9bdaa47[m
+Author: claudio-github <61068790+claudio-github@users.noreply.github.com>
+Date:   Thu Aug 11 09:22:23 2022 -0300
+
+    Update a.txt
+
+[33mcommit 65871527c115342e8f264bbeca130c0844895e8a[m
+Author: claudio-github <61068790+claudio-github@users.noreply.github.com>
+Date:   Thu Aug 11 09:21:35 2022 -0300
+
+    Create from_github.txt
+
+[33mcommit c915c118f0ff7dc649c69e09169c8f68b96f80a1[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Thu Aug 11 09:17:20 2022 -0300
+
+    Second commit
+
+[33mcommit f8df9360ad1c2a4734a7292d4c44fcbc4d430123[m
+Author: Claudio Toledo <claudiotoledoit@gmail.com>
+Date:   Thu Aug 11 08:46:15 2022 -0300
+
+    First commit
